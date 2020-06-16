@@ -15,8 +15,8 @@ from kivy.properties import ObjectProperty
 from kivy.uix.popup import Popup
 import os
 # os.environ.setdefault("DJANGO_SETTINGS_MODULE", "mysite.mysite.settings")
-# from mysite.myapi.views import PersonViewSet, AdminViewSet, api_root
-# django.setup()
+from mysite.myapi.views import PersonViewSet, AdminViewSet, api_root
+django.setup()
 
 
 class LoadDialog(FloatLayout):
@@ -208,8 +208,8 @@ class MyMainApp(App):
         return sm
 
 
-# unknown = api_root(HttpRequest())
-# print(str(PersonViewSet().highlight()))
+unknown = api_root(HttpRequest())
+print(str(PersonViewSet().highlight()))
 
 kv = Builder.load_file("my.kv")
 
