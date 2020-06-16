@@ -1,0 +1,27 @@
+Michael;Jordan;m@jordan.com;male;Faces/Michael Jordan.jpg
+Donald;Trump;d@trump.com;male;Faces/Donald Trump.jpg
+Leonardo;Dicaprio;l@dicaprio.com;male;Faces/Leonardo Dicaprio.jpg
+Brad;Pitt;b@pitt.com;male;Faces/Brad Pitt.jpg
+Samuel;Jackson;s@jackson.com;male;Faces/Samuel L Jackson.jpg
+Elon;Musk;e@musk.com;male;Faces/Elon Musk.jpg
+Barack;Obama;b@obama.com;male;Faces/Barack Obama.jpg
+Hillary;Clinton;h@clinton.com;female;Faces/Hillary Clinton.jpg
+Jennifer;Aniston;j@aniston.com;female;Faces/Jennifer Aniston.jpg
+Dua;Lipa;d@lipa.com;female;Faces/Dua Lipa.jpg
+Quentin;Tarantino;q@tarantino.com;male;Faces/Quentin Tarantino.jpg
+Tom;Brady;t@brady.com;male;Faces/Tom Brady.jpg
+Tiger;Woods;t@woods.com;male;Faces/Tiger Woods.jpg
+Phil;Mickelson;p@mickelson.com;male;Faces/Phil Mickelson.jpg
+Jackie;Chan;j@chan.com;male;Faces/Jackie Chan.jpg
+Oprah;Winfrey;o@winfrey.com;female;Faces/Oprah Winfrey.jpg
+Kim;Kardashian;k@kardashian.com;female;Faces/Kim Kardashian.jpg
+Kanye;West;k@west.com;male;Faces/Kanye West.jpg
+David;Letterman;d@letterman.com;male;Faces/David Letterman.jpg
+Conan;Obrien;c@obrien.com;male;Faces/Conan Obrien.jpg
+Will;Ferrell;w@ferrell.com;male;Faces/Will Ferrell.jpg
+Reggie;Bush;r@bush.com;male;Faces/Reggie Bush.jpg
+Olivia;Jade;o@jade.com;female;Faces/Olivia Jade.jpg
+OJ;Simpson;o@simpson.com;male;Faces/OJ Simpson.jpg
+JuJu;Smith;j@smith-schuster.com;male;Faces/JuJu Smith.jpg
+Cole;Howard;c@gmail.com;male;unknown.jpg
+Bill;Gates;b@gates.com;male;Faces/Bill Gates.jpg
